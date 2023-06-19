@@ -1,4 +1,4 @@
-# Chatbot_for_seniors-
+# Chatbot_for_seniors
 Rasa를 이용한 대화 챗봇
 
 사용자가 바다, 산, 공원 등 장소에 다녀왔다는 메시지를 보내면
